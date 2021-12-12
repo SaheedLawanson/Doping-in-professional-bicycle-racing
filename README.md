@@ -14,3 +14,4 @@ Built with
 
 
 APIs
+- Cyclist data: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json
